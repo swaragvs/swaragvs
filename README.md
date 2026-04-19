@@ -1,5 +1,5 @@
 <!-- HUD CORNERS -->
-<div align="right"><sub><code>SYS.ID // SVS-001 // CLEARANCE: ACTIVE</code></sub></div>
+<div align="right"><sub><code>SYS.ID // SVS-309 // CLEARANCE: ACTIVE</code></sub></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=2500&pause=800&color=4FA3D1&center=true&vCenter=true&width=500&lines=INITIALIZING+SYSTEM...;KERNEL+MODULE+LOADED;AI+SUBSYSTEM+ONLINE;BUILD%3A+STABLE" alt="boot sequence" />
@@ -9,15 +9,15 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  OPERATOR  :  Swarag V S                                      ║
-║  STATUS    :  Final-Year CSE · CUSAT                          ║
+║  MASTER    :  Swarag V S                                      ║
+║  STATUS    :  B.TECH IN CSE · CUSAT                           ║
 ║  ROLE      :  Systems Engineer · AI Developer · IoT Architect ║
 ║  BUILD     :  STABLE                                          ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 > Bridging **low-level hardware** with **intelligent automation** —  
-> from Linux kernel contributions to ML-powered IoT systems.  
+> from Linux kernel to ML-powered IoT systems.  
 > Interested in the full stack of a computer: from silicon to model inference.
 
 <br/>
@@ -83,5 +83,5 @@
 <br/>
 
 <div align="right">
-  <sub><code>[ SYSTEMS ONLINE · KERNEL CONTRIB // AI // IoT · BUILD: STABLE ]</code></sub>
+  <sub><code>[ SYSTEMS · KERNEL · ARCHITECTURE // AI // IoT · AUTOMATION ]</code></sub>
 </div>
