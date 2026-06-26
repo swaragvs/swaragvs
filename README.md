@@ -1,87 +1,144 @@
-<!-- HUD CORNERS -->
-<div align="right"><sub><code>SYS.ID // SVS-309 // CLEARANCE: ACTIVE</code></sub></div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=2500&pause=800&color=4FA3D1&center=true&vCenter=true&width=500&lines=INITIALIZING+SYSTEM...;KERNEL+MODULE+LOADED;AI+SUBSYSTEM+ONLINE;BUILD%3A+STABLE" alt="boot sequence" />
+
+# Hi, I'm Swarag V S 👋
+
+### Computer Science Engineer | AI & Machine Learning | Systems | Embedded
+
+Building practical software and intelligent systems that solve real-world engineering problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/swaragvs)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/swaragvs)
+[![Email](https://img.shields.io/badge/Email-swaragvs09@gmail.com-D14836?style=flat&logo=gmail)](mailto:swaragvs09@gmail.com)
+
 </div>
 
-<br/>
+---
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  MASTER    :  Swarag V S                                      ║
-║  STATUS    :  B.TECH IN CSE · CUSAT                           ║
-║  ROLE      :  Systems Engineer · AI Developer · IoT Architect ║
-║  BUILD     :  STABLE                                          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+## About Me
 
-> Bridging **low-level hardware** with **intelligent automation** —  
-> from Linux kernel to ML-powered IoT systems.  
-> Interested in the full stack of a computer: from silicon to model inference.
+I recently graduated with a **B.Tech in Computer Science & Engineering** from **CUSAT** after completing a Diploma in Civil Engineering.
 
-<br/>
+I enjoy designing systems that combine **AI, machine learning, embedded hardware, Linux, and software engineering** to solve practical engineering challenges.
 
-<!-- ═══ FOCUS AREAS ═══ -->
-<sub><code>// FOCUS AREAS</code></sub>
+My interests include:
 
-`Systems & Architecture` &nbsp;·&nbsp; `Network Infrastructure & Automation` &nbsp;·&nbsp; `ML & Computer Vision` &nbsp;·&nbsp; `Hardware-Software Integration`
-
-<br/>
+- Artificial Intelligence & Machine Learning
+- Systems Programming
+- Computer Vision
+- Linux & Networking
+- Embedded Systems
+- Distributed Systems
+- Performance Optimization
 
 ---
 
-<!-- ═══ TECHNICAL SKILLS ═══ -->
-<sub><code>// TECHNICAL SKILLS</code></sub>
+## Featured Projects
 
-<br/>
+### 🛡 Defender – Intelligent Animal Intrusion Detection
+A real-time intrusion detection system built using **YOLO** running on **Raspberry Pi**, combining computer vision with embedded hardware for intelligent monitoring.
 
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <sub><b>LANGUAGES</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin&theme=dark&perline=3" />
-    </td>
-    <td valign="top" width="25%">
-      <sub><b>SYSTEMS & EMBEDDED</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=linux,bash,arduino&theme=dark&perline=3" />
-    </td>
-    <td valign="top" width="25%">
-      <sub><b>AI & DATA SCIENCE</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=3" />
-    </td>
-    <td valign="top" width="25%">
-      <sub><b>TOOLS & DEV</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark&perline=3" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+**Tech:** Python • Computer Vision • Raspberry Pi • YOLO
 
 ---
 
-<!-- ═══ CONNECT ═══ -->
-<sub><code>// OPEN CHANNEL</code></sub>
+### 📊 Log Analysis & Anomaly Detection
 
-<br/>
+Designed a machine learning pipeline that automates log analysis to identify anomalous system behaviour using clustering and anomaly detection techniques.
 
-<p>
-  <a href="mailto:swaragvs09@gmail.com">
-    <img src="https://img.shields.io/badge/›_MAIL-swaragvs09%40gmail.com-4fa3d1?style=flat-square&labelColor=0d1117&color=4fa3d1" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/swaragvs/">
-    <img src="https://img.shields.io/badge/›_LINKEDIN-swaragvs-4fa3d1?style=flat-square&labelColor=0d1117&color=4fa3d1" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/swaragvs">
-    <img src="https://img.shields.io/badge/›_GITHUB-swaragvs-4fa3d1?style=flat-square&labelColor=0d1117&color=4fa3d1" />
-  </a>
+**Tech:** Python • Scikit-learn • Data Analysis • Visualization
+
+---
+
+### 🖥 Research on CXL Memory Architecture
+
+Studied Compute Express Link (CXL) and rack-scale memory architectures, exploring next-generation system performance and memory disaggregation.
+
+---
+
+### ✈ UAV Airfoil Simulation
+
+Performed CFD and structural analysis of the NACA 6415 airfoil using ANSYS as part of a UAV technologies bootcamp.
+
+---
+
+## Technical Skills
+
+### Languages
+
+- Python
+- C
+- C++
+- Java
+- SQL
+
+### AI & Machine Learning
+
+- Scikit-learn
+- Computer Vision
+- Data Analysis
+- Model Evaluation
+
+### Systems
+
+- Linux
+- Git
+- Bash
+- Networking Fundamentals
+- Embedded Systems
+
+### Development Tools
+
+- VS Code
+- Android Studio
+- GitHub
+- AutoCAD
+- ANSYS
+
+---
+
+## Experience
+
+**Machine Learning Intern**
+
+Worked on the end-to-end machine learning workflow including data preprocessing, model development, testing, and evaluation.
+
+**AutoCAD Draftsman**
+
+Prepared technical drawings for residential architectural projects.
+
+**Lab Demonstrator**
+
+Conducted laboratory sessions and assisted students in Civil Engineering practicals.
+
+---
+
+## Currently Learning
+
+- Deep Learning
+- Edge AI
+- Distributed Systems
+- Performance Engineering
+- Cybersecurity
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swaragvs&show_icons=true&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaragvs&hide_border=true"/>
+
 </p>
 
-<br/>
+---
 
-<div align="right">
-  <sub><code>[ SYSTEMS · KERNEL · ARCHITECTURE // AI // IoT · AUTOMATION ]</code></sub>
-</div>
+## Connect
+
+- LinkedIn: https://linkedin.com/in/swaragvs
+- Email: swaragvs09@gmail.com
+
+---
+
+> *"I enjoy building systems that bridge software, hardware, and AI to solve real engineering problems."*
