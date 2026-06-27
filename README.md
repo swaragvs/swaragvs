@@ -2,7 +2,7 @@
 
 # Hi, I'm Swarag V S 👋
 
-### Computer Science Engineer | AI & Machine Learning | Systems | Embedded
+### Computer Science Engineer | AI & ML | IoT | Systems | 
 
 Building practical software and intelligent systems that solve real-world engineering problems.
 
@@ -26,8 +26,7 @@ My interests include:
 - Systems Programming
 - Computer Vision
 - Linux & Networking
-- Embedded Systems
-- Distributed Systems
+- IoT Systems
 - Performance Optimization
 
 ---
